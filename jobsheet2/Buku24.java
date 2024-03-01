@@ -29,6 +29,8 @@ public Buku24 (String jud, String pg, int hal, int stok, int har) {
         }
         void gantiHarga (int hrg) {
         harga = hrg;
-        }
+
+        
+        } 
 
     }
