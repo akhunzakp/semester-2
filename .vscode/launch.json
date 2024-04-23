@@ -1,0 +1,217 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "jobsheet1.Array",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "ArrayofGrade",
+            "request": "launch",
+            "mainClass": "jobsheet1.ArrayofGrade",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "Fungsi",
+            "request": "launch",
+            "mainClass": "jobsheet1.Fungsi",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "GradeConversation",
+            "request": "launch",
+            "mainClass": "jobsheet1.GradeConversation",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "Kode",
+            "request": "launch",
+            "mainClass": "jobsheet1.Kode",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan",
+            "request": "launch",
+            "mainClass": "jobsheet1.Pemilihan",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "Perulangan",
+            "request": "launch",
+            "mainClass": "jobsheet1.Perulangan",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "Rumus",
+            "request": "launch",
+            "mainClass": "jobsheet1.Rumus",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "QueueMain",
+            "request": "launch",
+            "mainClass": "jobsheet10.QueueMain",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "BukuMain24",
+            "request": "launch",
+            "mainClass": "jobsheet2.BukuMain24",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "Dragon",
+            "request": "launch",
+            "mainClass": "jobsheet2.Dragon",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "Array2D24",
+            "request": "launch",
+            "mainClass": "jobsheet3.Array2D24",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBlocks",
+            "request": "launch",
+            "mainClass": "jobsheet3.ArrayBlocks",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "ArrayOfObjects",
+            "request": "launch",
+            "mainClass": "jobsheet3.ArrayOfObjects",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "CalculateMain",
+            "request": "launch",
+            "mainClass": "jobsheet3.CalculateMain",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "TriangleMain",
+            "request": "launch",
+            "mainClass": "jobsheet3.TriangleMain",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "Uni",
+            "request": "launch",
+            "mainClass": "jobsheet3.Uni",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "Assignment1",
+            "request": "launch",
+            "mainClass": "jobsheet5.Assignment1",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "Assignment2",
+            "request": "launch",
+            "mainClass": "jobsheet5.Assignment2",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "MainFaktorial",
+            "request": "launch",
+            "mainClass": "jobsheet5.MainFaktorial",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "MainSquared",
+            "request": "launch",
+            "mainClass": "jobsheet5.MainSquared",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "jobsheet6.Main",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "MainPremierLeague24",
+            "request": "launch",
+            "mainClass": "jobsheet6.MainPremierLeague24",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "MainTicket24",
+            "request": "launch",
+            "mainClass": "jobsheet6.MainTicket24",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch$BinarySearch",
+            "request": "launch",
+            "mainClass": "jobsheet7.BinarySearch$BinarySearch",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "MahasiswaMain",
+            "request": "launch",
+            "mainClass": "jobsheet7.MahasiswaMain",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "Searching",
+            "request": "launch",
+            "mainClass": "jobsheet7.Searching",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "SequentalSearch",
+            "request": "launch",
+            "mainClass": "jobsheet7.SequentalSearch",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeMain",
+            "request": "launch",
+            "mainClass": "quiz.EmployeeMain",
+            "projectName": "Prak. Algo & Struktur Data_9351488e"
+        }
+    ]
+}
